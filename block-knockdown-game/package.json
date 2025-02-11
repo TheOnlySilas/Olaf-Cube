@@ -1,0 +1,22 @@
+{
+  "name": "block-knockdown-game",
+  "version": "1.0.0",
+  "description": "A game where players knock over blocks using a square, inspired by Angry Birds.",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "typescript": "^4.5.4",
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "game",
+    "typescript",
+    "canvas"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
