@@ -102,12 +102,12 @@ h2{
     background-size: cover;
     background-position: center;
 }
-.front  { transform: rotateY(  0deg) translateZ(100px); background-image: url(../assets/Scholz\ Cube\ front.png); }
-.back   { transform: rotateY(180deg) translateZ(100px); background-image: url(../assets/Scholz\ Cube\ front.png); }
-.right  { transform: rotateY( 90deg) translateZ(100px); background-image: url(../assets/Scholz\ Cube\ front.png); }
-.left   { transform: rotateY(-90deg) translateZ(100px); background-image: url(../assets/Scholz\ Cube\ front.png); }
-.top    { transform: rotateX( 90deg) translateZ(100px); background-image: url(../assets/Scholz\ Cube\ front.png); }
-.bottom { transform: rotateX(-90deg) translateZ(100px); background-image: url(../assets/Scholz\ Cube\ front.png); }
+.front  { transform: rotateY(  0deg) translateZ(100px); background-image: url(../Scholz\ Cube\ front.png); }
+.back   { transform: rotateY(180deg) translateZ(100px); background-image: url(../Scholz\ Cube\ front.png); }
+.right  { transform: rotateY( 90deg) translateZ(100px); background-image: url(../Scholz\ Cube\ front.png); }
+.left   { transform: rotateY(-90deg) translateZ(100px); background-image: url(../Scholz\ Cube\ front.png); }
+.top    { transform: rotateX( 90deg) translateZ(100px); background-image: url(../Scholz\ Cube\ front.png); }
+.bottom { transform: rotateX(-90deg) translateZ(100px); background-image: url(../Scholz\ Cube\ front.png); }
 
 .olaf-cube-text {
     position: absolute;
@@ -207,14 +207,14 @@ h2{
 
 @font-face {
     font-family: "Gilroy";
-    src: url(../assets/fonts/Gilroy-BlackItalic.otf);
+    src: url(../fonts/Gilroy-BlackItalic.otf);
     font-weight:600;
     font-style: italic;
 }
 
 @font-face {
     font-family: "Hind";
-    src: url(../assets/fonts/Hind-Regular.ttf);
+    src: url(../fonts/Hind-Regular.ttf);
     font-weight: normal;
     font-style: normal;
 }
@@ -239,7 +239,7 @@ h2{
 
     }
     p {
-        font-size: 2em;
+        font-size: 1.5em;
     }
     .info-text {
         max-width: 100%;
