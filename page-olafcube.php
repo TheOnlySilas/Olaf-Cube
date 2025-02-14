@@ -41,31 +41,16 @@ endif;
 </div>
 <div class="text-container">
     <div class="info-container">
-        <h2>Olaf Scholz macht seinen Freunden die Taschen voll!</h2>
-        <p class="info-text">Er ist in den CumEx-Skandal verwickelt bei dem Steuern in Milliardenh&ouml;he hinterzogen
-            worden. Der deutsche Staat wurde nachweislich um 31,8 Milliarden Euro betrogen. Dabei wurde vor den Augen
-            von Finanzminister Scholz die sogenannte Kapitalertragsteuer ausgehebelt. Die Enth&uuml;llungen vom Spiegel
-            und dem Manager Magazin zeigen, dass der Hamburger Senat unter Scholz eine wichtige Rolle spielte, um
-            Steuernachzahlungen der Hamburger Warburg-Bank zu verhindern. Die Warburg-Bank verschaffte sich 2016
-            illegale Steuervorteile in H&ouml;he von 47 Millionen Euro durch die sogenannten Cum-Ex Gesch&auml;fte. Als
-            das Hamburger Finanzamt das illegal erwirtschaftete Geld zur&uuml;ckforderte, traf sich Olaf Scholz mit der
-            Warbung-Bank und die R&uuml;ckzahlung wurde verschoben. Auf die Frage, was an diesem Treffen verabredet
-            worden sei, antwortete Olaf Scholz mit „Erinnerungsl&uuml;cken”.</p>
+        <h2>Olaf Scholz macht den Reichen die Taschen voll!</h2>
+        <p class="info-text">Als Bürgermeister hat Scholz verhindert, dass das Hamburger Finanzamt gestohlenes Steuergeld von der Warbung-Bank zurückverlangt. Nach einem kleinen Plausch hat er Bankchef Olearius direkt an seinen Finanzsenator verwiesen.</p>
     </div>
     <div class="info-container">
-        <h2>Olaf Scholz ist unsozial!</h2>
-        <p class="info-text">Unter der Ampel, bei der Scholz Kanzler war, wurden viele Sozialk&uuml;rzungen umgesetzt.
-            Gr&uuml;ne und SPD tun so, als w&uuml;rde das B&uuml;rgergeld eine gro&szlig;e Besserung bedeuten. Das ist
-            falsch. Das B&uuml;rgergeld ist das unmenschliche Hartz IV Modell im neuen Gewand. Und nicht genug. Unter
-            der Ampel wurden die Sozialleistungen dann auch noch immer weiter gek&uuml;rzt.</p>
+        <h2>Olaf Scholz reißt den Sozialstaat ab!</h2>
+        <p class="info-text">Reiche dürfen mit Verbrechen wegkommen aber den Armen kürzt er das Brot vom Tisch! Das Bürgergeld ist nichts als Hartz IV unter einem anderen Namen und es bleibt so unsozial wie sein „Vorgänger“. </p>
     </div>
     <div class="info-container">
-        <h2>Olaf Scholz m&oumlchte deine Freunde abschieben!</h2>
-        <p class="info-text">gerade tut Scholz so, als ob er die Alternative zu Merz darstellen w&uuml;rde. Das stimmt
-            nicht. Scholz m&ouml;chte - genauso wie Merz - abschieben. Und das <a
-                href="https://www.tagesschau.de/inland/innenpolitik/scholz-abschiebungen-100.html">"in gro&szlig;em
-                Stile"</a>. Und m&ouml;glichst schnell. Blo&szlig; weil Scholz daf&uuml;r nicht die AfD benutzt, macht
-            das seine Pl&auml;ne nicht besser.</p>
+        <h2>Olaf Scholz macht beim Rechtsruck mit!</h2>
+        <p class="info-text">Friedrich Merz geht nur den letzten Schritt aber Olaf Scholz ist auch schon weit auf dem Weg zu AfD und rechtem Terror. Seine Ampelregierung hat die menschenverachtende GEAS-Reform durchgesetzt und er selbst will "in großem Stile" abschieben, auch nach Syrien oder Afghanistan.</p>
     </div>
 </div>
 <footer>
@@ -75,10 +60,7 @@ endif;
         <a href="https://www.die-linke.de/bundestagswahl-2025/wahlprogramm/"><img id="pyramiden"
                 src="assets/Pyramiden von gysi.png"></a>
         <h2>DIE PYRAMIDEN VON GYSI</h2>
-        <p class="info-text" style="background-color: transparent;">sorry, den Witz konnten wir nicht lassen. Aber eins
-            ist ganz klar: Die soziale Alternative zur SPD ist nur die Linke. Aber: Nur w&auml;hlen reicht nicht. Jeder
-            relevante soziale Fortschritt wurde und wird <b>auf der Stra&szlig;e erk&auml;mpft!</b> Darum ist nur eins
-            besser als w&auml;hlen:</p>
+        <p class="info-text" style="background-color: transparent;">Sorry, den Witz konnten wir nicht lassen. Doch eins ist klar: Nur die Linke kämpft gegen Oligarchie, Sozialabbau und Rechtsruck! Wie sie es schon gemacht hat, als die Rot-Grüne Koalition ihre Anti-Arbeiter Agenda 2010 eingeführt hat. Aber nur wählen reicht nicht! Um von dem Ort, an den uns Stillstand unter Union und Ampel gebracht haben, wegzukommen und den Rechtsruck zu bekämpfen: </p>
         <h2>Organisier dich!</h2>
     </div>
     <div class="socials">
