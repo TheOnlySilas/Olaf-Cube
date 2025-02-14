@@ -210,6 +210,11 @@ var b2 = (function () {
             body.sprite = desc.sprite;
             desc.sprite.body = body;
 
+            // Add text label to the sprite
+            var textLabel = new cc.LabelTTF(desc.text || "", "Arial", 20);
+            textLabel.setPosition(cc.p(size.width / 2, size.height / 2));
+            desc.sprite.addChild(textLabel);
+
             bodies.push(body);
         },
         simulate: function () {

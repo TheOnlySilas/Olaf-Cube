@@ -1,19 +1,42 @@
-﻿<!DOCTYPE>
+﻿<!DOCTYPE html>
 <html>
     <head>
         <title>Angry Birds Master game with Source code and live demo - Create an Angry Birds Game with Game Levels Using Html Css & Js.</title>
-		<script type="text/javascript" src='js/box2d.js'></script> 
-        <script type="text/javascript" src="js/cocos2d.js" ></script>
+        <script type="text/javascript" src='js/box2d.js'></script> 
+        <script type="text/javascript" src="js/cocos2d.js"></script>
         <style type="text/css">
             * {
-                margin:0;
-                padding:0;
+                margin: 0;
+                padding: 0;
+            }
+            html, body {
+                width: 100%;
+                height: 100%;
+            }
+            canvas {
+                display: block;
+                width: 100%;
             }
         </style>
+        <script type="text/javascript">
+            window.addEventListener('resize', resizeCanvas, false);
+            window.addEventListener('load', function() {
+                resizeCanvas();
+                // Initialize your game here if needed
+            }, false);
+
+            function resizeCanvas() {
+                var canvas = document.getElementById('viewport');
+                if (canvas) {
+                    canvas.width = window.innerWidth;
+                    canvas.height = window.innerWidth / 2;
+                }
+            }
+        </script>
     </head> 
     <body>
-        <canvas id="viewport" width="1200px" height="600px" >
-            <h2 style="text-align:center">Use a better browser !</h2>
+        <canvas id="viewport">
+            <h2 style="text-align:center">Use a better browser!</h2>
         </canvas>
     </body>
 </html>
