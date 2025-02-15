@@ -13,7 +13,7 @@ endif;
 
 <div class="titelbild">
     <div class="presenter">
-        <img class="logo-presenter" src="assets/Logo CD schwarz_1.svg">
+        <img class="logo-presenter" src="<?php echo get_template_directory_uri() ?>/assets/Logo CD schwarz_1.svg">
     </div>
     <div class="container">
 
@@ -53,12 +53,12 @@ endif;
         <p class="info-text">Friedrich Merz geht nur den letzten Schritt aber Olaf Scholz ist auch schon weit auf dem Weg zu AfD und rechtem Terror. Seine Ampelregierung hat die menschenverachtende GEAS-Reform durchgesetzt und er selbst will "in großem Stile" abschieben, auch nach Syrien oder Afghanistan.</p>
     </div>
 </div>
-<footer>
+<div class="footer">
     <div class="aufruf">
         <h2>und was bleibt dann noch &uuml;brig?</h2>
         <p class="info-text">Wir haben da eine Alternative zum Scholz-Cube:</p>
         <a href="https://www.die-linke.de/bundestagswahl-2025/wahlprogramm/"><img id="pyramiden"
-                src="assets/Pyramiden von gysi.png"></a>
+                src="<?php echo get_template_directory_uri() ?>/assets/Pyramiden von gysi.png"></a>
         <h2>DIE PYRAMIDEN VON GYSI</h2>
         <p class="info-text" style="background-color: transparent;">Sorry, den Witz konnten wir nicht lassen. Doch eins ist klar: Nur die Linke kämpft gegen Oligarchie, Sozialabbau und Rechtsruck! Wie sie es schon gemacht hat, als die Rot-Grüne Koalition ihre Anti-Arbeiter Agenda 2010 eingeführt hat. Aber nur wählen reicht nicht! Um von dem Ort, an den uns Stillstand unter Union und Ampel gebracht haben, wegzukommen und den Rechtsruck zu bekämpfen: </p>
         <h2>Organisier dich!</h2>
@@ -104,7 +104,7 @@ endif;
             </a>
         </div>
     </div>
-</footer>
+</div>
 <?php get_footer(); ?>
 
 <link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/css/olafcube.css" />
