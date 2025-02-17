@@ -41,15 +41,15 @@ endif;
 <div class="text-container">
     <div class="info-container">
         <h2>Olaf Scholz macht den Reichen die Taschen voll!</h2>
-        <p class="info-text">Als Bürgermeister hat Scholz verhindert, dass das Hamburger Finanzamt gestohlenes Steuergeld von der Warbung-Bank zurückverlangt. Nach einem kleinen Plausch hat er Bankchef Olearius direkt an seinen Finanzsenator verwiesen.</p>
+        <p class="info-text">Als Bürgermeister hat Scholz verhindert, dass das Hamburger Finanzamt gestohlenes Steuergeld von der Warbung-Bank zurückverlangt. Nach einem kleinen Plausch hat er Bankchef Olearius direkt an seinen Finanzsenator verwiesen. <a href="https://www.be.linksjugend-solid.de/olaf-scholz-reich">---Weiterlesen---</a></p>
     </div>
     <div class="info-container">
         <h2>Olaf Scholz reißt den Sozialstaat ab!</h2>
-        <p class="info-text">Reiche dürfen mit Verbrechen wegkommen aber den Armen kürzt er das Brot vom Tisch! Das Bürgergeld ist nichts als Hartz IV unter einem anderen Namen und es bleibt so unsozial wie sein „Vorgänger“. </p>
+        <p class="info-text">Reiche dürfen mit Verbrechen wegkommen aber den Armen kürzt er das Brot vom Tisch! Das Bürgergeld ist nichts als Hartz IV unter einem anderen Namen und es bleibt so unsozial wie sein „Vorgänger“. <a href="https://www.be.linksjugend-solid.de/olaf-scholz-unsozial">---Weiterlesen---</a></p>
     </div>
     <div class="info-container">
         <h2>Olaf Scholz macht beim Rechtsruck mit!</h2>
-        <p class="info-text">Friedrich Merz geht nur den letzten Schritt aber Olaf Scholz ist auch schon weit auf dem Weg zu AfD und rechtem Terror. Seine Ampelregierung hat die menschenverachtende GEAS-Reform durchgesetzt und er selbst will "in großem Stile" abschieben, auch nach Syrien oder Afghanistan.</p>
+        <p class="info-text">Friedrich Merz geht nur den letzten Schritt aber Olaf Scholz ist auch schon weit auf dem Weg zu AfD und rechtem Terror. Seine Ampelregierung hat die menschenverachtende GEAS-Reform durchgesetzt und er selbst will "in großem Stile" abschieben, auch nach Syrien oder Afghanistan. <a href="https://www.be.linksjugend-solid.de/olaf-scholz-rechtsruck">---Weiterlesen---</a></p>
     </div>
 </div>
 <div class="footer">
